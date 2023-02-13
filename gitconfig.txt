@@ -1,0 +1,2 @@
+git config core.quotepath false          # Нормальный вывод киррилицы 
+git config --global core.quotepath false # Нормальный вывод киррилицы 
